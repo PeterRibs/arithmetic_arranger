@@ -60,6 +60,6 @@ The function will return the correct conversion if the supplied problems are pro
     * There should be four spaces between each problem.
     * There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
 
-### Development
+### Run
 
-Write your code in `arithmetic_arranger.py`. For development, you can use `main.py` to test your `arithmetic_arranger()` function. Click the "run" button and `main.py` will run.
+Write your code in `arithmetic_arranger.py`. To run, you can use `main.py` to test your `arithmetic_arranger()` function.
